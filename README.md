@@ -1,6 +1,5 @@
 # insta-crack
-This is a tool used to crack Instagram and Facebook
-$ apt update -y && apt upgrade -y
+This is a tool used to crack Instagram and Facebook$ apt update -y && apt upgrade -y
 
 $ pkg install git -y
 
